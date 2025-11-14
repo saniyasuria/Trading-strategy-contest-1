@@ -1,0 +1,4 @@
+base-bot-template
+numpy
+pandas
+yfinance
